@@ -93,3 +93,10 @@ Note:
 1. You can modify `architecture.json` to try different network specifications.  
 2. You can use the Tensorboard to track the training.  
 3. I disabled embedding viewer in my training script. You you wanna use it, please modify and run `make_sprite.py` and `python make_tsv.py`
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
